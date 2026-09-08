@@ -1,0 +1,1 @@
+// Xcode project placeholder: create an iOS App target named Aura and add the Aura/ source group. The GitHub Actions workflow validates the Swift sources and builds once the project is opened/saved in Xcode.
